@@ -50,8 +50,9 @@ def get_rougeN_score(reference_ngrams, candidate_ngrams):
 
 def get_candidate_summary():
     data = ""
+    file_path = "equipo1/conversation_A01794718.json"
 
-    with open("equipo1/conversation_A01225357.json", encoding="utf-8") as file:
+    with open(file_path, encoding="utf-8") as file:
         data = json.load(file)
 
     user_data = ' '.join([data[i]["message"] for i in range(len(data)) if data[i]["role"] == "assistant"])
@@ -60,7 +61,8 @@ def get_candidate_summary():
 
 
 def get_reference_summary():
-    reader = PdfReader("equipo1/Equipo1-ProyectoE1.pdf")
+    file_path = "equipo1/Equipo1-ProyectoE1.pdf"
+    reader = PdfReader(file_path)
 
     text = ""
     for page in reader.pages:
