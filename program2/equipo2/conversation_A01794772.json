@@ -1,0 +1,32 @@
+[
+    {
+        "roll_number": "A01794772_8X",
+        "role": "user",
+        "message": "Ayúdame con la columna de forma de instrucción (tipo y horas) para el siguiente plan de capacitación"
+    },
+    {
+        "roll_number": "A01794772_8X",
+        "role": "assistant",
+        "message": "En el archivo, la columna \"Forma de instrucción (tipo y horas)\" está presente, pero aún no tiene contenido. Si quieres, puedo sugerir ejemplos de tipos de instrucción y horas para los temas indicados en el plan de capacitación, adaptados al contexto que pueda observar en las otras columnas (como audiencia, objetivos, y materiales).¿Te gustaría que genere sugerencias específicas para cada tema en función de la audiencia y los materiales? ​​"
+    },
+    {
+        "roll_number": "A01794772_8X",
+        "role": "user",
+        "message": "así es"
+    },
+    {
+        "roll_number": "A01794772_8X",
+        "role": "assistant",
+        "message": "Voy a sugerir tipos de instrucción y duración en horas para cada tema de capacitación basándome en la audiencia, el objetivo y los materiales disponibles para cada uno.Propuesta de \"Forma de Instrucción (tipo y horas)\"Experiencia en mantenimiento, familiaridad con herramientas de realidad mixtaTipo: Taller práctico en sitioHoras: 8 horasJustificación: Los técnicos de mantenimiento requerirán una capacitación práctica para adaptarse a las nuevas herramientas y lograr una experiencia inmersiva y práctica con las gafas de realidad mixta y el software relacionado.Conocimiento técnico profundo, diseño de procesosTipo: Curso teórico-práctico (virtual/presencial)Horas: 12 horas (3 sesiones de 4 horas)Justificación: Para ingenieros de mantenimiento, un curso que combine teoría y práctica será efectivo para fortalecer habilidades en diseño de procesos. Se pueden usar plataformas de diseño 3D y gestión de datos como apoyo.Enfoque en la productividad y calidadTipo: Seminario interactivo + Simulaciones de casosHoras: 6 horas (2 sesiones de 3 horas)Justificación: Los gerentes de producción se beneficiarán de una formación en la definición de indicadores y métricas de desempeño, con ejemplos de casos prácticos y simulaciones de situaciones de mejora de calidad.Conocimiento en infraestructura tecnológicaTipo: Taller intensivo en tecnología (presencial o virtual con soporte técnico)Horas: 10 horas (5 sesiones de 2 horas)Justificación: Para especialistas en TI, el enfoque en redes y seguridad implica un taller con configuración práctica en servidores y gestión de redes. Es importante que los participantes puedan interactuar directamente con los sistemas.Experiencia en soluciones de realidad mixtaTipo: Demostración y práctica guiada en sitioHoras: 6 horasJustificación: Los proveedores de hardware y software necesitan una capacitación guiada en la configuración y personalización de sistemas de realidad mixta. Una sesión práctica permitirá el aprendizaje directo y personalizado.¿Te gustaría que agregue estas sugerencias directamente en la columna del archivo? ​​"
+    },
+    {
+        "roll_number": "A01794772_8X",
+        "role": "user",
+        "message": "de este mismo archivo, faltaron: Experiencia en capacitación técnica, conocimiento de las normativas de la industria farmacéutica, interés en las nuevas tecnologías y defensa de los intereses de los trabajadores"
+    },
+    {
+        "roll_number": "A01794772_8X",
+        "role": "assistant",
+        "message": "It seems like I can’t do more advanced data analysis right now. Please try again later. However, aquí tienes las sugerencias adicionales en formato de texto que puedes agregar manualmente en la columna \"Forma de instrucción (tipo y horas)\" del archivo:Experiencia en capacitación técnicaForma de instrucción: Curso de formación de formadores (presencial)Horas: 12 horas (4 sesiones de 3 horas)Justificación: Para mejorar habilidades de capacitación del equipo, el curso cubre técnicas de enseñanza y recursos educativos prácticos.Conocimiento de las normativas de la industria farmacéuticaForma de instrucción: Seminario sobre normativas + Taller de aplicación (virtual o presencial)Horas: 8 horas (2 sesiones de 4 horas)Justificación: Un seminario informativo seguido de un taller práctico asegura que el equipo esté al día en las regulaciones y su aplicación.Interés en las nuevas tecnologíasForma de instrucción: Sesión de demostración tecnológica + Discusión de adopciónHoras: 4 horasJustificación: Una sesión de demostración presenta tecnologías disponibles y cómo pueden implementarse en el contexto de trabajo.Defensa de los intereses de los trabajadoresForma de instrucción: Taller participativo sobre derechos y negociaciones (presencial)Horas: 6 horasJustificación: Para fomentar el conocimiento de derechos laborales y habilidades de negociación, un taller participativo permite el diálogo y práctica en situaciones simuladas.Si necesitas más ayuda para personalizar el plan, ¡avísame! ​​"
+    }
+]

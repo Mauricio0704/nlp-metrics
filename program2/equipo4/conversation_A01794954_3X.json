@@ -1,0 +1,32 @@
+[
+    {
+        "roll_number": "A01794954",
+        "role": "user",
+        "message": "Qué engloba el concepto de CFDI?"
+    },
+    {
+        "roll_number": "A01794954",
+        "role": "assistant",
+        "message": "ElCFDI(Comprobante Fiscal Digital por Internet) es un concepto clave en el sistema fiscal mexicano, utilizado para la emisión de facturas electrónicas. Es un documento digital que respalda legalmente una transacción comercial o una operación económica entre dos partes. A continuación, te explico los elementos principales que engloba el concepto de CFDI:Factura Electrónica: El CFDI es la forma de factura electrónica que se utiliza en México para documentar operaciones como ventas, servicios prestados, arrendamientos, entre otros. Reemplaza las facturas físicas tradicionales.Certificación: Los CFDI deben ser validados y certificados por unProveedor Autorizado de Certificación (PAC), que se encarga de verificar que cumplan con las normativas establecidas por el Servicio de Administración Tributaria (SAT) y asignarles un sello digital y un folio fiscal.Sello Digital: Cada CFDI lleva un sello digital único que garantiza la autenticidad del documento y su inalterabilidad.XML y PDF: El CFDI se genera en dos formatos principales:XML: Este es el archivo electrónico que contiene toda la información fiscal, estructurada para que el SAT pueda interpretarla y verificarla.PDF: Aunque no es obligatorio, muchas empresas también generan una representación gráfica en PDF para facilitar su visualización.Datos Contenidos: Un CFDI contiene información detallada sobre la transacción, como:Datos del emisor y receptor (nombre, RFC, domicilio).Clave del producto o servicio.Desglose de impuestos (IVA, ISR, etc.).Método y forma de pago.Folio fiscal (UUID).Fecha y hora de expedición.Total de la operación, entre otros.Tipos de CFDI: Existen diversos tipos de CFDI dependiendo de la naturaleza de la transacción, como:Factura de ingreso.Nota de crédito.Recibo de nómina.Complementos de pago.Complementos: En algunos casos, los CFDI deben incluir complementos, que son anexos de información adicional. Por ejemplo, elcomplemento de pagose utiliza para documentar pagos recibidos en parcialidades o diferidos.El uso del CFDI es obligatorio para todas las transacciones fiscales en México y es parte de la estrategia del SAT para combatir la evasión fiscal y aumentar la transparencia en las transacciones comerciales."
+    },
+    {
+        "roll_number": "A01794954",
+        "role": "user",
+        "message": "Cuál es la fuente de esta información?"
+    },
+    {
+        "roll_number": "A01794954",
+        "role": "assistant",
+        "message": "La información proporcionada sobre elCFDIse basa en las regulaciones fiscales de México y la documentación pública emitida por elServicio de Administración Tributaria (SAT). El SAT es la autoridad encargada de implementar y supervisar el sistema de facturación electrónica en el país, y proporciona lineamientos específicos sobre la emisión de CFDI, así como guías técnicas y legales para su correcto uso.Puedes consultar fuentes oficiales y confiables como:Portal del SAT: El sitio oficial del SAT ofrece guías y documentación sobre el CFDI.Código Fiscal de la Federación (CFF): Donde se establecen las obligaciones fiscales para los contribuyentes en México.Resolución Miscelánea Fiscal: Donde se publican reglas adicionales y aclaraciones sobre el uso del CFDI.Estas fuentes son esenciales para entender las normativas actualizadas y los procedimientos específicos relacionados con la facturación electrónica en México."
+    },
+    {
+        "roll_number": "A01794954",
+        "role": "user",
+        "message": "Tienes bibliografía de lo que acabas de compartir?"
+    },
+    {
+        "roll_number": "A01794954",
+        "role": "assistant",
+        "message": "No proporcioné una bibliografía formal porque la información sobre elCFDIque compartí proviene principalmente de regulaciones y documentación pública emitida por elServicio de Administración Tributaria (SAT)y otras normativas fiscales de México. Sin embargo, puedo sugerirte algunas fuentes oficiales y recursos clave donde se detalla esta información:Fuentes Oficiales:Servicio de Administración Tributaria (SAT)Página oficial:www.sat.gob.mxGuía para la emisión de CFDI: Disponible en el apartado de facturación electrónica.Código Fiscal de la Federación (CFF)Texto legal disponible en el Diario Oficial de la Federación (DOF) y en el portal del SAT.Resolución Miscelánea Fiscal (RMF)Esta resolución se publica anualmente y regula muchos aspectos relacionados con el CFDI. Puedes consultarla en el DOF o en el portal del SAT.Guía de llenado del CFDI(emitida por el SAT)Documento técnico con instrucciones detalladas para la correcta emisión de los CFDI.Documentos Complementarios:Ley del Impuesto sobre la Renta (LISR)Ley del Impuesto al Valor Agregado (IVA)Si necesitas una referencia específica o enlace directo a algún documento en particular, puedo ayudarte a buscarlo."
+    }
+]

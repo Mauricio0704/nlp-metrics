@@ -1,0 +1,32 @@
+[
+    {
+        "roll_number": "A01372357_3X",
+        "role": "user",
+        "message": "Hola"
+    },
+    {
+        "roll_number": "A01372357_3X",
+        "role": "assistant",
+        "message": "¡Hola! ¿Cómo estás?"
+    },
+    {
+        "roll_number": "A01372357_3X",
+        "role": "user",
+        "message": "Estamos trabajando en un diagnóstico de gestión del cambio en una organización que está pasando por una transformación digital. En dicho diagnóstico mandaremos una encuesta para recabar información de los empleados involucrados, utilizando el siguiente contenido:\n\"Preguntas para responder:\n•\t¿Cuál es la necesidad urgente de cambio?\n•\t¿Qué problemas u oportunidades están impulsando este cambio?\n•\t¿Qué pasará si no actuamos ahora?\n•\t¿Cómo podemos comunicar la urgencia del cambio a todos los niveles de la organización?\nHerramientas:\n•\tRealiza un Análisis de la urgencia. Reúnete con al menos cuatro personas de los grupos impactados y revisa:\n•\t¿Cómo entienden cada uno de estos grupos el cambio?\n•\t¿De qué manera los afecta el cambio?\n•\t¿Qué tan preparados están para cambiar? Evalúa de 1 a 5 su preparación para el cambio dónde 1 (uno) es “no está preparado”, y 5 (cinco) es “está preparado”.\n•\t¿Cómo cambiarías la comunicación de la urgencia del cambio después de haber hablado con estos grupos?\"\nCon base en este contexto, ¿nos podrías ayudar a proponer otras preguntas en formato escala de likert para este diagnóstico? Una vez tengamos todas las respuestas, pensamos poner las respuestas en una gráfica radial."
+    },
+    {
+        "roll_number": "A01372357_3X",
+        "role": "assistant",
+        "message": "¡Claro! Aquí te propongo algunas preguntas adicionales en formato de escala de Likert que podrían complementar tu diagnóstico:En qué medida crees que la transformación digital es necesaria para el futuro de la organización?1 (Totalmente innecesaria) - 5 (Totalmente necesaria)¿Qué tan claro es el propósito del cambio para ti?1 (Nada claro) - 5 (Muy claro)¿Qué tan preparado te sientes para adaptarte a los cambios propuestos?1 (Nada preparado) - 5 (Completamente preparado)¿Qué tan bien has sido informado sobre los beneficios de este cambio?1 (Nada informado) - 5 (Muy informado)¿En qué medida sientes que tu equipo está preparado para implementar el cambio?1 (Nada preparado) - 5 (Totalmente preparado)¿Qué tan adecuada consideras la comunicación sobre el proceso de cambio?1 (Nada adecuada) - 5 (Muy adecuada)¿Qué tanto apoyo percibes de los líderes para implementar este cambio?1 (Ningún apoyo) - 5 (Apoyo total)¿Qué tan probable es que el cambio propuesto tenga un impacto positivo en la organización?1 (Nada probable) - 5 (Muy probable)Estas preguntas te permitirán medir de manera más cuantitativa cómo los empleados están percibiendo el cambio, lo que complementará las respuestas abiertas que ya estás recabando."
+    },
+    {
+        "roll_number": "A01372357_3X",
+        "role": "user",
+        "message": "¡Muchas gracias! ¿Podrías proponer dos preguntas más sobre los líderes de la organización? \nLa primera sobre la confianza que se tiene en los líderes de la organización para que la transformación sea exitosa, y la segunda sobre si el empleado se siente apoyado por los líderes."
+    },
+    {
+        "roll_number": "A01372357_3X",
+        "role": "assistant",
+        "message": "¡Con mucho gusto! Aquí tienes las dos preguntas adicionales:¿Qué tan confiado te sientes en la capacidad de los líderes de la organización para llevar a cabo exitosamente la transformación digital?1 (Nada confiado) - 5 (Totalmente confiado)¿En qué medida sientes que los líderes de la organización te están apoyando durante este proceso de transformación?1 (Nada apoyado) - 5 (Totalmente apoyado)Estas preguntas te ayudarán a evaluar el nivel de confianza y apoyo percibido por parte de los empleados hacia los líderes durante la transformación digital."
+    }
+]
